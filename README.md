@@ -20,3 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelinkonak&show_icons=true&locale=en&layout=compact" alt="pelinkonak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelinkonak&" alt="pelinkonak" /></p>
+
+
+![snake gif](https://github.com/pelinkonak/pelinkonak/blob/output/github-contribution-grid-snake.gif)
+
