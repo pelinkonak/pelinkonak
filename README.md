@@ -22,5 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelinkonak&" alt="pelinkonak" /></p>
 
 
-![snake gif](https://github.com/pelinkonak/pelinkonak/blob/output/github-contribution-grid-snake.gif)
+
 
