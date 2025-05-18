@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pelin KONAK</h1>
-<h3 align="center">A passionate app developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinkonak&label=Profile%20views&color=0e75b6&style=flat" alt="pelinkonak" /> </p>
 
