@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinkonak&label=Profile%20views&color=0e75b6&style=flat" alt="pelinkonak" /> </p>
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I’m currently working on **AI Engineering**
 
 - 📫 How to reach me **pelin.konak928@gmail.com**
 
