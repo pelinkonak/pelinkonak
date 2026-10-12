@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pelin Konak</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | PM </h3>
+<h3 align="center">Computer Engineering Student · Product Management Intern @ SabancıDx · Founder @ PelCo · Mentor</h3>
 
 <p align="center">
-Building intelligent products and modern web applications.
+Building AI-powered products, running the PelCo community and mentoring students on careers, internships and building MVPs with AI.
 </p>
 
 <p align="left">
@@ -11,13 +11,21 @@ Building intelligent products and modern web applications.
 
 ---
 
-### 🚀 Current Project
+### 🚀 What I'm doing now
 
-🔹 **PelCo — AI Powered Project Risk Detection Platform**
+- 💼 **Product Management Intern @ SabancıDx** (Jun 2026 – present) — product management & productization
+- 🧭 **Founder @ PelCo** (Jan 2026 – present) — BTM incubation program
+  - **[PelCo App](https://pelcoapp.com)**: AI early-warning layer that flags delivery risk, workload imbalance and output drops before they become critical
+  - **[PelCo Community](https://pelco.tr)**: free career community — hackathons, PelCo Talks, workshops and meetups (Hackathon #1: 12 hours, 4 teams)
+- 🎙️ Creating content on software, vibe coding and building products with AI
 
-PelCo analyzes project signals, team dynamics and communication patterns to detect hidden risks before they become critical.
+---
 
-🌐 https://pelcoapp.com
+### 🤝 1-1 Mentorship
+
+Career counselling · internship & job prep (CV, LinkedIn, portfolio, interviews) · vibe coding & building an MVP with AI · product & project management · entrepreneurship
+
+👉 Apply at **[pelco.tr](https://pelco.tr)** · 🌐 Portfolio: **[pelinkonak.github.io](https://pelinkonak.github.io/ownwebsite.github.io/)**
 
 ---
 
@@ -30,7 +38,7 @@ PelCo analyzes project signals, team dynamics and communication patterns to dete
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/pelin-konak" target="blank">
+<a href="https://linkedin.com/in/pelinkonak" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
@@ -56,6 +64,10 @@ PelCo analyzes project signals, team dynamics and communication patterns to dete
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
